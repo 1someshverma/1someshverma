@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1someshverma" alt="1someshverma" /></a> </p>
 
-- 🌱 I’m currently learning **React and Android Development**
-
+- 🌱 I’m currently learning ....
 - 📫 How to reach me **1someshverma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
